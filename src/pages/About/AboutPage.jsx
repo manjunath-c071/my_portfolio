@@ -1,5 +1,5 @@
 import "./AboutPage.css"
-import profile from '../../assets/image/Profile.png'
+import profile from '../../assets/image/profile.png'
 
 
 
